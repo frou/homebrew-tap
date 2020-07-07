@@ -11,6 +11,8 @@ class Makeheaders < Formula
     bin.install executable
   end
 
+  # @todo #0 Implement a test for brew formula Makeheaders
+
   test do
     # `test do` will create, run in and delete a temporary directory.
     #
