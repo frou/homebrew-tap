@@ -1,5 +1,5 @@
 class Makeheaders < Formula
-  desc "Utility to automatically generate a .h file containing declarations for everything a .c file uses"
+  desc "Utility to automatically generate tailored .h files for .c files, that contain declarations for everything used by the .c file."
   homepage "https://www.hwaci.com/sw/mkhdr/"
   url "https://www.fossil-scm.org/home/uv/fossil-src-2.11.1.tar.gz"
   sha256 "b391f34fada5f16eba452f36d2ad8baa3fe2a5267bf8f4169cb1b9832c0cb8eb"
